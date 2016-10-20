@@ -1,0 +1,27 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Urban Explorer</title>
+<meta name="viewport" content="width=device-width"/>
+<link rel="stylesheet" href="css/styles.css">
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+</head>
+<body>
+<div id="map"></div>
+<div id="search-panel">
+    <input id="address" type="textbox" value="Barcelona, ES">
+    <input id="keyword" type="textbox" value="festival">
+    <input id="radius" type="number" value="1">
+    <input id="submit" type="button" value="Buscar">
+</div>
+<h2>Eventos en tu zona</h2>
+<div id="events"></div>
+<script type="text/javascript" src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAQoU-xyGfBNHUW5-sL3Utp078csz4tUx0&callback=initMap" async defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.15.1/moment.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.15.1/locale/es.js"></script>
+<script type="text/javascript" src="js/index.js"></script>
+</body>
+</html>

@@ -1,0 +1,23 @@
+body{
+  background-color: #B2DFDB;
+  font-family: 'Roboto','sans-serif';
+}
+
+#map {
+    height: 50vh;
+    border-radius: 5px;
+    border: 1px solid silver;
+}
+
+#search-panel {
+  top: 10px;
+  left: 33%;
+  z-index: 5;
+  background-color: #00BFA5;
+  padding: 5px;
+  border: 1px solid #999;
+  border-radius: 5px;
+  text-align: center;
+  line-height: 30px;
+  padding-left: 10px;
+}

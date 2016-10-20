@@ -1,0 +1,85 @@
+{
+    "pagination": {
+        "object_count": 1,
+        "page_number": 1,
+        "page_size": 50,
+        "page_count": 1,
+        "continuation": "eyJwYWdlIjogMn0"
+    },
+    "events": [
+        {
+            "name": {
+                "text": "JavaScript+, HTML5, CSS4",
+                "html": "JavaScript+, HTML5, CSS4"
+            },
+            "description": {
+                "text": "4 jours pour apprendre, essayer et progresser. 4 soirs pour r\u00e9inventer, d\u00e9couvrir et profiter. Un voyage immersif dans un contexte atypique pour faire \u00e9merger cr\u00e9ativit\u00e9 et curiosit\u00e9. Le tout en fran\u00e7ais !\nPour \u00e7a, r\u00e9servez votre ticket, emportez votre bonne humeur et plongez avec nous dans la nouveaut\u00e9. Nous r\u00e9servons le logement, organisons les repas et partageons les loisirs.\nCes formations s'adressent aux int\u00e9grateurs et d\u00e9veloppeurs Web qui souhaitent am\u00e9liorer leurs pratiques du front, appronfondir le JavaScript et faire leur veille technologique.\nObjectifs : une formation de qualit\u00e9, \u00e0 tr\u00e8s bas prix et dans un lieu atypique !\n\nExploiter HTML5 et CSS3 / CSS4, leurs bonnes pratiques, d\u00e9couvrir ce qui est utilisable aujourd'hui, anticiper ce qui va l'\u00eatre demain. Jouer avec les Web Components, d\u00e9couvrir les Web Extensions, \u00e9crire du VanillaJS et se s\u00e9parer de JQuery, tapoter du JavaScript ES6, plonger dans le backend avec NodeJS et ExpressJS, ouvrir des Web Sockets et faire communiquer des API en Rest. Remplacer GoogleMaps dans vos applis, sandboxer avec Docker, oser du SVG, l'animer, appliquer des templates HTML/JS Utiliser les bons outils pour tester les performances, responsive et debugger, embarquer une app pour du mobile natif creuser vos id\u00e9es et projets intimes, \u2026\nEt bien s\u00fbr en utilisant Git et le reste, dans le respet des bonnes pratiques, et en parlant architecture. Et avec la banane.\n\n\u00a0\nWhat does a day look like?\nWe all meet for the breakfast and start the training at 9am.We cover some topics during the whole day until 5pm with a lunch break.After 5pm it's free time. Either we keep on working on what was covered, we share tips and tricks or we go out and visit around.We then go for dinner together in the evening.That's what we can expect for a typical day\u2026\nWhat is included?\n\nThe 5 days training\nAn accomodation from Sunday evening until Friday\nMeals (breakfasts, lunches and dinner) from Sunday evening until Friday noon\n\nWhat is NOT INCLUDED?\n\nYour trip to reach Syracusa and the accomodation\nA private room (this is a shared room)\nExtra lunches\nSouvenirs, drinks, outgoings, extra services at the accomodation\nSleep before Sunday or after Friday morning\nInsurances out of the training schedules\n\nWhat to bring?\n\nYour laptop with it's plug and an adaptor for the country. PLease don't forget it!\nA towel, soap, shampoo\nAn outfit adapted to the weather (it could rain)\nClothings to walk around the city of to go for activities\nEarplugs!!\nYour geek stuff to share (Arduino, Makey-makey, Raspberry, puzzles, \u2026)\nIdeas, good mood and big smile\n\nWhat transport/parking options to reach the workshop?\nThe cities are selected considering the easiness to reach and their low-fares from Europe.You might want to check ryanair.com, easyjet.com or other transportation services.You will be provided the exact location once it is booked to be able to organize.Meanwhile you may organize to reach the city center as we won't be far from it.\nCould the journey be extended?\nYou are very welcome to do so! Of course these extras will be at your cost.You will be able to stick around with us and whoever will stay. We won't be able to extend the rental and you will have to take care of your accomodation.\nWhy is it so cheap?\nWe know you are paying here for a week what you would pay for only 1,5 day with any regular training center.We try to make it affordable for everyone to spread the best practices and high quality web development.At scopyleft we earn a decently low salary and as a not-for-profit cooperative company we don't do Web for money but make money to build and share.However, to be viable we need to reach a minimum of attendees. Under that number we would be forced to postpone the workshop.\nAre workshop tickets transferable/refundable?\nYes. You can tranfer your ticket to anyone. Just keep us informed if you do so.Some rare cases like these using the \"DIF\" (some financial support in France) are not transferable.\nCancelling a ticket you will be refunded of 50% of the price you paid.The other 50% will help us to cover bookings costs we cannot cancel.\nMore infos\nThe website : webdiving.orgThe program : http://webdiving.org/fr/#futur-webContact Vincent : vincent ((at)) scopyleft.fr\n",
+                "html": "<P><STRONG>4 jours<\/STRONG> pour apprendre, essayer et progresser. <STRONG>4 soirs<\/STRONG> pour r\u00e9inventer, d\u00e9couvrir et profiter. Un <STRONG>voyage immersif<\/STRONG> dans un contexte <STRONG>atypique<\/STRONG> pour faire \u00e9merger <STRONG>cr\u00e9ativit\u00e9<\/STRONG> et <STRONG>curiosit\u00e9<\/STRONG>. Le tout en fran\u00e7ais !<BR><\/P>\n<P>Pour \u00e7a, r\u00e9servez votre ticket, emportez votre <STRONG>bonne humeur<\/STRONG> et plongez avec nous <STRONG>dans la nouveaut\u00e9<\/STRONG>. Nous r\u00e9servons le <STRONG>logement<\/STRONG>, organisons les <STRONG>repas<\/STRONG> et partageons les <STRONG>loisirs<\/STRONG>.<\/P>\n<P>Ces formations s'adressent aux int\u00e9grateurs et d\u00e9veloppeurs Web qui souhaitent am\u00e9liorer leurs pratiques du front, appronfondir le JavaScript et faire leur veille technologique.<BR><\/P>\n<P>Objectifs : une formation de qualit\u00e9, \u00e0 tr\u00e8s bas prix et dans un lieu atypique !<\/P>\n<P><BR><\/P>\n<P>Exploiter <STRONG>HTML5<\/STRONG> et <STRONG>CSS3 / CSS4<\/STRONG>, leurs bonnes pratiques, d\u00e9couvrir ce qui est utilisable aujourd'hui, anticiper ce qui va l'\u00eatre demain.<BR> Jouer avec les <STRONG>Web Components<\/STRONG>, d\u00e9couvrir les <STRONG>Web Extensions<\/STRONG>, \u00e9crire du <STRONG>VanillaJS<\/STRONG> et se s\u00e9parer de JQuery, tapoter du <STRONG>JavaScript ES6<\/STRONG>, plonger dans le backend avec <STRONG>NodeJS<\/STRONG> et <STRONG>ExpressJS<\/STRONG>, ouvrir des <STRONG>Web Sockets<\/STRONG> et faire communiquer des <STRONG>API<\/STRONG> en <STRONG>Rest<\/STRONG>.<BR> Remplacer GoogleMaps dans vos applis, sandboxer avec <STRONG>Docker<\/STRONG>, oser du <STRONG>SVG<\/STRONG>, l'animer, appliquer des <STRONG>templates HTML/JS<\/STRONG><BR> Utiliser les bons <STRONG>outils<\/STRONG> pour tester les <STRONG>performances<\/STRONG>, <STRONG>responsive<\/STRONG> et <STRONG>debugger<\/STRONG>, embarquer une app pour du <STRONG>mobile natif<\/STRONG> creuser vos <STRONG>id\u00e9es et projets<\/STRONG> intimes, \u2026<\/P>\n<P>Et bien s\u00fbr en utilisant <STRONG>Git<\/STRONG> et le reste, dans le respet des <STRONG>bonnes pratiques<\/STRONG>, et en parlant architecture. Et avec la banane.<\/P>\n<P><BR><\/P>\n<P>\u00a0<\/P>\n<H2>What does a day look like?<\/H2>\n<P>We all meet for the breakfast and start the training at 9am.<BR>We cover some topics during the whole day until 5pm with a lunch break.<BR>After 5pm it's free time. Either we keep on working on what was covered, we share tips and tricks or we go out and visit around.<BR>We then go for dinner together in the evening.<BR>That's what we can expect for a typical day\u2026<\/P>\n<H2>What is included?<\/H2>\n<UL>\n<LI>The 5 days training<\/LI>\n<LI>An accomodation from Sunday evening until Friday<\/LI>\n<LI>Meals (breakfasts, lunches and dinner) from Sunday evening until Friday noon<\/LI>\n<\/UL>\n<H2>What is NOT INCLUDED?<\/H2>\n<UL>\n<LI>Your trip to reach Syracusa and the accomodation<\/LI>\n<LI>A private room (this is a shared room)<\/LI>\n<LI>Extra lunches<\/LI>\n<LI>Souvenirs, drinks, outgoings, extra services at the accomodation<\/LI>\n<LI>Sleep before Sunday or after Friday morning<\/LI>\n<LI>Insurances out of the training schedules<\/LI>\n<\/UL>\n<H2>What to bring?<\/H2>\n<UL>\n<LI>Your laptop with it's plug and an adaptor for the country. PLease don't forget it!<\/LI>\n<LI>A towel, soap, shampoo<\/LI>\n<LI>An outfit adapted to the weather (it could rain)<\/LI>\n<LI>Clothings to walk around the city of to go for activities<\/LI>\n<LI>Earplugs!!<\/LI>\n<LI>Your geek stuff to share (Arduino, Makey-makey, Raspberry, puzzles, \u2026)<\/LI>\n<LI>Ideas, good mood and big smile<\/LI>\n<\/UL>\n<H2>What transport/parking options to reach the workshop?<\/H2>\n<P>The cities are selected considering the easiness to reach and their low-fares from Europe.<BR>You might want to check ryanair.com, easyjet.com or other transportation services.<BR>You will be provided the exact location once it is booked to be able to organize.<BR>Meanwhile you may organize to reach the city center as we won't be far from it.<\/P>\n<H2>Could the journey be extended?<\/H2>\n<P>You are very welcome to do so! Of course these extras will be at your cost.<BR>You will be able to stick around with us and whoever will stay. We won't be able to extend the rental and you will have to take care of your accomodation.<\/P>\n<H2>Why is it so cheap?<\/H2>\n<P>We know you are paying here for a week what you would pay for only 1,5 day with any regular training center.<BR>We try to make it affordable for everyone to spread the best practices and high quality web development.<BR>At <A HREF=\"http://scopyleft.fr/en/\" TARGET=\"_blank\" TITLE=\"Cooperative company\" REL=\"noreferrer noopener nofollow noopener noreferrer nofollow\">scopyleft<\/A> we earn a decently low salary and as a not-for-profit cooperative company we don't do Web for money but make money to build and share.<BR>However, to be viable we need to reach a minimum of attendees. Under that number we would be forced to postpone the workshop.<\/P>\n<H2>Are workshop tickets transferable/refundable?<\/H2>\n<P>Yes. You can tranfer your ticket to anyone. Just keep us informed if you do so.<BR>Some rare cases like these using the \"DIF\" (some financial support in France) are not transferable.<\/P>\n<P>Cancelling a ticket you will be refunded of 50% of the price you paid.<BR>The other 50% will help us to cover bookings costs we cannot cancel.<\/P>\n<H2>More infos<\/H2>\n<P>The website : <A HREF=\"http://webdiving.org\" TARGET=\"_blank\" REL=\"noreferrer noopener nofollow noopener noreferrer nofollow\">webdiving.org<\/A><BR>The program : <A HREF=\"http://webdiving.org/fr/#futur-web\" TARGET=\"_blank\" REL=\"noreferrer noopener nofollow noopener noreferrer nofollow\">http://webdiving.org/fr/#futur-web<\/A><BR>Contact Vincent : vincent ((at)) scopyleft.fr<\/P>\n<P><BR><\/P>"
+            },
+            "id": "27769635728",
+            "url": "http://www.eventbrite.com/e/javascript-html5-css4-tickets-27769635728?aff=ebapi",
+            "start": {
+                "timezone": "Europe/Madrid",
+                "local": "2016-11-03T19:00:00",
+                "utc": "2016-11-03T18:00:00Z"
+            },
+            "end": {
+                "timezone": "Europe/Madrid",
+                "local": "2016-11-07T18:00:00",
+                "utc": "2016-11-07T17:00:00Z"
+            },
+            "created": "2016-09-16T06:28:02Z",
+            "changed": "2016-10-03T09:13:51Z",
+            "capacity": 10,
+            "capacity_is_custom": false,
+            "status": "live",
+            "currency": "EUR",
+            "listed": true,
+            "shareable": true,
+            "online_event": false,
+            "tx_time_limit": 480,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": false,
+            "is_series_parent": false,
+            "is_reserved_seating": false,
+            "source": "create_2.0",
+            "logo_id": "24225091",
+            "organizer_id": "6501547471",
+            "venue_id": "16676154",
+            "category_id": "102",
+            "subcategory_id": "2004",
+            "format_id": "9",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/27769635728/",
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 86
+                    },
+                    "width": 450,
+                    "height": 225
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F24225091%2F56012658065%2F1%2Foriginal.jpg?s=f6613000d92908f75212b1713f54a8c9",
+                    "width": null,
+                    "height": null
+                },
+                "id": "24225091",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F24225091%2F56012658065%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C86%2C450%2C225&s=bafff0fef7bfc7dea5118539efab1014",
+                "aspect_ratio": "2",
+                "edge_color": null,
+                "edge_color_set": true
+            }
+        }
+    ],
+    "location": {
+        "latitude": "41.385064",
+        "within": "2.0",
+        "longitude": "2.173404",
+        "address": "Barcelona"
+    }
+}
