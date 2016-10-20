@@ -1,6 +1,10 @@
 body{
-  background-color: #B2DFDB;
   font-family: 'Roboto','sans-serif';
+}
+
+h4 {
+  text-align: center;
+  color: white;
 }
 
 #map {
@@ -9,15 +13,67 @@ body{
     border: 1px solid silver;
 }
 
-#search-panel {
-  top: 10px;
-  left: 33%;
-  z-index: 5;
-  background-color: #00BFA5;
-  padding: 5px;
-  border: 1px solid #999;
-  border-radius: 5px;
-  text-align: center;
-  line-height: 30px;
-  padding-left: 10px;
+.card{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.flexcontainer{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 1em;
+  padding-top: 1em;
+}
+
+.flexform {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.form-cell {
+  display: flex;
+  flex: 0 1 auto;
+  flex-direction: column;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.input-field .prefix {
+  color: #2196F3;
+}
+
+.input-field .prefix.active {
+  color: #2196F3;
+}
+
+.input-field label {
+  color: #2196F3;
+}
+
+.input-field input[type=text]:focus + label {
+  color: #2196F3;
+}
+
+.input-field input[type=text]:focus {
+  border-bottom: 1px solid #2196F3;
+  box-shadow: 0 1px 0 0 #2196F3;
+}
+
+.input-field input[type=number]:focus + label {
+  color: #2196F3;
+}
+
+.input-field input[type=number]:focus {
+  border-bottom: 1px solid #2196F3;
+  box-shadow: 0 1px 0 0 #2196F3;
+}
+
+#events{
+  margin: 2em;
 }

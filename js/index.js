@@ -1,8 +1,3 @@
-var map;
-
-//lat: 41.3866722, lng: 2.1671486
-
-
 var styles = [
   {
     "elementType": "geometry",
@@ -180,12 +175,10 @@ var styles = [
   }
 ]
 
-//EVENBRITE
-//ex evento : https://www.eventbriteapi.com/v3/events/search/?token=J5673XJGW5P5EOVV32OY&location.address=Barcelona&location.within=2km&q=javascript
-
+var map;
 var eventsObj = [];
 var eventmarks = [];
-moment.lang('es')
+moment.lang('es');
 
 //GOOGLE MAPS
 function initMap() {
@@ -278,6 +271,8 @@ function searchEvents(geocoder, map, infowindow){
                       });
                   }
                   s += "</ul>";
+
+
                   $events.html(s);
               } else {
                   $events.html("<p>No hay ningún evento disponible.</p>");
@@ -288,11 +283,7 @@ function searchEvents(geocoder, map, infowindow){
           window.alert('No se han encontrado resultados');
         }
       } else {
-        window.alert('Geocoder falló debido a: ' + status);
+        window.alert('Error de búsqueda, por favor, introduzca datos válidos');
       }
     });
-
-
-
-
 };

@@ -6,20 +6,73 @@
 <title>Urban Explorer</title>
 <meta name="viewport" content="width=device-width"/>
 <link rel="stylesheet" href="css/styles.css">
-<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/css/materialize.min.css">
 </head>
 <body>
+<div class="page">
 <div id="map"></div>
-<div id="search-panel">
-    <input id="address" type="textbox" value="Barcelona, ES">
-    <input id="keyword" type="textbox" value="festival">
-    <input id="radius" type="number" value="1">
-    <input id="submit" type="button" value="Buscar">
+<div class="flexcontainer">
+  <div class="flexform">
+   <div class="input-field form-cell">
+     <i class="material-icons prefix">room</i>
+     <input id="address" type="text" value="">
+     <label for="address">Localidad</label>
+   </div>
+   <div class="input-field form-cell">
+     <i class="material-icons prefix">zoom_in</i>
+     <input id="radius" type="number" value="">
+     <label for="radius">Rango</label>
+   </div>
+   <div class="input-field form-cell">
+     <i class="material-icons prefix">mode_comment</i>
+     <input id="keyword" type="text" value="">
+     <label for="keyword">Palabra clave</label>
+   </div>
+  </div>
+  <br>
 </div>
-<h2>Eventos en tu zona</h2>
-<div id="events"></div>
+<div class="flexcontainer">
+   <button id="submit" class="btnsubmit z-depth-1 waves-effect waves-light btn blue darken-1 btn" type="submit">Buscar
+     <i class="material-icons right">search</i>
+   </button>
+</div>
+<div class="card z-depth-1 blue">
+  <h4>Eventos</h4>
+</div>
+<div class="flexcontainer">
+  <div id="events">
+    <p>No hay ningún evento listado. Realiza una búsqueda para empezar.</p>
+  </div>
+</div>
+<footer class="page-footer blue">
+          <div class="container">
+            <div class="row">
+              <div class="col l6 s12">
+                <h5 class="white-text">Urban Explorer Demo</h5>
+                <p class="grey-text text-lighten-4">Prototipo básico de Urban Explorer, una app destinada a la búsqueda de eventos de portales como Eventbrite y Meetup.</p>
+              </div>
+              <div class="col l4 offset-l2 s12 right-align">
+                <h5 class="white-text">Links</h5>
+                <ul>
+                  <li><a class="grey-text text-lighten-3" href="https://developers.google.com/maps/documentation/javascript/">Google Maps API</a></li>
+                  <li><a class="grey-text text-lighten-3" href="https://developer.eventbrite.com/">Eventbrite API</a></li>
+                  <li><a class="grey-text text-lighten-3" href="https://www.meetup.com/es/meetup_api/">Meetup API</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="footer-copyright">
+            <div class="container">
+            © 2016 Xavier Martínez Pujol
+            <a class="grey-text text-lighten-4 right" href="http://xmpdesign.com/">Mi portfolio</a>
+            </div>
+          </div>
+</footer>
+</div>
 <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAQoU-xyGfBNHUW5-sL3Utp078csz4tUx0&callback=initMap" async defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/js/materialize.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.15.1/moment.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.15.1/locale/es.js"></script>
 <script type="text/javascript" src="js/index.js"></script>
